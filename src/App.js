@@ -1,13 +1,15 @@
 import "./App.css";
+import Dictionary from "./Dictionary";
 
 function App() {
   return (
     <div className="App">
-      Dictionary App
-      <p>
+      <h1>Dictionary App</h1>
+      <Dictionary />
+      <footer>
         Coded by Hannah Van Wyk and open-sourced on{" "}
         <a href="https://github.com/hannahvw/dictionary-app-react">GitHub</a>.
-      </p>
+      </footer>
     </div>
   );
 }
