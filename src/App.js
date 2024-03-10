@@ -8,7 +8,9 @@ function App() {
       <Dictionary />
       <footer>
         Coded by Hannah Van Wyk and open-sourced on{" "}
-        <a href="https://github.com/hannahvw/dictionary-app-react">GitHub</a>.
+        <a href="https://github.com/hannahvw/dictionary-app-react">GitHub</a>{" "}
+        and <a href="https://loquacious-granita-e8ac90.netlify.app/">Netlify</a>
+        .
       </footer>
     </div>
   );
