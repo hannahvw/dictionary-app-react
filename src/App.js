@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Dictionary</h1>
-      <Dictionary />
+      <Dictionary defaultKeyword={"sunset"}/>
       <footer>
         Coded by Hannah Van Wyk and open-sourced on{" "}
         <a href="https://github.com/hannahvw/dictionary-app-react">GitHub</a>{" "}
