@@ -1,0 +1,13 @@
+.Dictionary section {
+  background-color: ghostwhite;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 8px;
+  box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.10);
+  color: #1F2020;
+  font-family: "Poppins", sans-serif;
+}
+
+.Dictionary form {
+  margin-top: 20px;
+}

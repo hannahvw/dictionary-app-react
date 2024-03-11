@@ -1,0 +1,10 @@
+.Synonyms span {
+    font-size: 0.875rem;
+    margin-left: 15px;
+}
+
+.Synonyms li {
+    list-style: none;
+    display: inline;
+    margin-left: 15px;
+}

@@ -1,3 +1,25 @@
 body {
     padding: 25px;
+    background-color: #F5F3FE;
+    color: #1F2020;
+    display: flex;
+    justify-content: center;
+}
+
+.App {
+    max-width: 600px;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    font-family: "Poppins", sans-serif;
+    font-size: 0.75rem;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-size: 3rem;
 }

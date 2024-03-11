@@ -1,0 +1,15 @@
+.Meanings h4 {
+    font-size: 1.2rem;
+}
+
+.Meanings .definition {
+    margin-left: 15px;
+    margin-bottom: 5px;
+}
+
+.Meanings .example {
+    margin-left: 15px;
+    font-style: italic;
+    color: #6f7171;
+    margin-bottom: 10px;
+}
